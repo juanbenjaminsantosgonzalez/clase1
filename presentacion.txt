@@ -1,2 +1,5 @@
 Holaaaa 
 archivo de texto de ejemplo
+Version 2
+Este es el ejemplo
+de el segundo texto de ejemplo
