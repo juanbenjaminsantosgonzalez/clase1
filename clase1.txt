@@ -1,3 +1,6 @@
 Esta es el ejemplo
 numero 2
 de la guia git
+Version 2
+Modificacion del texto
+Actualizar texto de ejemplo
